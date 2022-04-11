@@ -6,7 +6,7 @@
    color: #FFF;
    max-width: 640px;
    padding: 0;
-   margin: 0 auto; 
+   margin: 0 auto;
    margin-bottom: 64px;   
 }
 @media screen and (max-width: 767px) {
