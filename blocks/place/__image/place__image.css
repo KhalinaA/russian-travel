@@ -6,27 +6,27 @@
    max-width: 460px;
    min-width: 320px;
 }
- 
+
 @media screen and (max-width: 1024px) {
    .place__image {
-     max-width: 440px;
+      max-width: 440px;
    }
 }
- 
- @media screen and (max-width: 900px) {
+
+@media screen and (max-width: 900px) {
    .place__image {
-     max-width: 340px;
+      max-width: 340px;
    }
 }
- 
- @media screen and (max-width: 767px) {
+
+@media screen and (max-width: 767px) {
    .place__image {
-     max-width: 490px;
+      max-width: 490px;
    }
 }
- 
- @media screen and (max-width: 490px) {
+
+@media screen and (max-width: 490px) {
    .place__image {
-     max-width: 100%;
+      max-width: 100%;
    }
 }

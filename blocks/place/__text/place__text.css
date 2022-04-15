@@ -5,21 +5,22 @@
    align-self: start;
    max-width: 490px;
 }
- 
+
 @media screen and (max-width: 1023px) {
    .place__text {
-     font-size: 16px;
+      font-size: 16px;
    }
 }
- 
-@media  screen and (max-width: 768px) {
+
+@media screen and (max-width: 768px) {
    .place__text {
       align-self: center;
       width: 100%;
    }
 
 }
-@media  screen and (max-width: 506px) {
+
+@media screen and (max-width: 506px) {
    .place__text {
       width: 93%;
    }

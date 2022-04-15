@@ -1,4 +1,4 @@
-.cover{
+.cover {
    position: relative;
    max-width: 1184px;
    margin: 0 auto;
@@ -9,18 +9,21 @@
    background-repeat: no-repeat;
    background-size: cover;
 }
+
 @media screen and (max-width: 1024) {
    .cover {
       height: 640px;
    }
- }
+}
+
 @media screen and (max-width: 768) {
    .cover {
       margin-top: 90px;
       height: 480px;
    }
 }
- @media screen and (max-width: 766px) {
+
+@media screen and (max-width: 766px) {
    .cover {
       margin-top: 66px;
    }

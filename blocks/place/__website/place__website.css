@@ -8,11 +8,12 @@
    justify-self: start;
    width: 100%;
 }
-@media  screen and (max-width: 506px) {
-   .place__website{
+
+@media screen and (max-width: 506px) {
+   .place__website {
       justify-self: center;
       width: 100%;
       max-width: 93%;
-      
+
    }
 }

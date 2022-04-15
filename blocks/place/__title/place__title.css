@@ -7,26 +7,30 @@
    max-width: 460px;
    justify-self: start;
 }
+
 @media screen and (max-width: 1023px) {
    .place__title {
-     font-size: 42px;
+      font-size: 42px;
    }
 }
-@media  screen and (max-width: 506px) {
-   .place__title{
-   width: 100%;
-   max-width: 93%;
-   justify-self: center;
+
+@media screen and (max-width: 506px) {
+   .place__title {
+      width: 100%;
+      max-width: 93%;
+      justify-self: center;
    }
 }
+
 @media screen and (max-width: 490px) {
    .place__title {
-     font-size: 37px;
- 
+      font-size: 37px;
+
    }
 }
+
 @media screen and (max-width: 425px) {
    .place__title {
-     font-size: 32px;
+      font-size: 32px;
    }
 }

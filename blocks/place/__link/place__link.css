@@ -4,6 +4,7 @@
    color: #FFFFFF;
    margin: 0;
 }
+
 .place__link:hover {
-  opacity: .9;
+   opacity: .9;
 }
